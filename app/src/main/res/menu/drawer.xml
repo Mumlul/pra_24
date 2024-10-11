@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fr1"
+        android:title="fr1"
+        android:icon="@drawable/sun" />
+    <item
+        android:id="@+id/fr2"
+        android:title="fr2"
+        android:icon="@drawable/sun" />
+    <item
+        android:id="@+id/fr3"
+        android:title="fr3"
+        android:icon="@drawable/sun" />
+    <item
+        android:id="@+id/fr4"
+        android:title="fr4"
+        android:icon="@drawable/sun" />
+</menu>
